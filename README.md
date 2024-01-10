@@ -1,4 +1,4 @@
-**# Incident-Response-and-Handling**  
+**Incident-Response-and-Handling**  
 Objectives:  
 
 1. Leverage OSINT sites during an investigation 
