@@ -1,4 +1,4 @@
-**# Incident-Response-and-Handling**
+**# Incident-Response-and-Handling**  
 Objectives:  
 
 1. Leverage OSINT sites during an investigation 
@@ -17,7 +17,7 @@ Weaponization Phase
 Delivery Phase 
 
 
-**The Incident Handling Life Cycle: ** 
+**The Incident Handling Life Cycle**:  
 Preparation  
 Detection and Analysis  
 Containment, Eradication, and Recovery  
