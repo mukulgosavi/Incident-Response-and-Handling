@@ -8,10 +8,11 @@ Objectives:
 
 Incident Handling Scenario We will investigate a cyber attack in which the attacker defaced an organization's website. This organization has Splunk as a SIEM solution setup. Our task as a Security Analysis would be to investigate this cyber attack and map the attacker's activities into all 7 of the Cyber Kill Chain Phases:
 
-Reconnaissance Phase
-Exploitation Phase
-Installation Phase
-Action on Objective
-Command and Control Phase
-Weaponization Phase
-Delivery Phase
+Reconnaissance Phase  
+
+Exploitation Phase  
+Installation Phase  
+Action on Objective  
+Command and Control Phase  
+Weaponization Phase  
+Delivery Phase 
